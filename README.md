@@ -1,1 +1,1 @@
-# Variational-AutoEncoder
+# Deep Generative Models
